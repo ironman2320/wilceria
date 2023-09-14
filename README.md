@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Wil</h1>
-<h3 align="center">A newbie passionate full stack developer from Philippines.</h3>
+<h1 align="center">Hi 👋, I'm WIL! Your coding companion 👨‍🎓</h1>
+<h3 align="center">🌏 A passionate explorer of the programming UNIVERSE 🖥️</h3>
 <img align="align right" alt="coding" width="500" src="https://cdn.dribbble.com/users/3089141/screenshots/10144752/ezgif-2-8a59ae3e3cf9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ironman2320&label=Profile%20views&color=0e75b6&style=flat" alt="ironman2320" /> </p>
